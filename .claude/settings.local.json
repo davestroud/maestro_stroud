@@ -1,0 +1,6 @@
+{
+  "enabledMcpjsonServers": [
+    "maestro-status"
+  ],
+  "enableAllProjectMcpServers": true
+}
